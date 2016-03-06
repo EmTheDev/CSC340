@@ -1,5 +1,5 @@
 # CSC340 - Programming Methodology
-Advanced data structures and algorithms for manipulation in C++; emphasis on design and implementation; practical applications; algorithms for sorting, searching, and graphs.
+	Advanced data structures and algorithms for manipulation in C++; emphasis on design and implementation; practical applications; algorithms for sorting, searching, and graphs.
 
 # Main Objectives
 	- Introduction to advanced concepts in C++

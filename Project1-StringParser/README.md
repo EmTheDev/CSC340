@@ -1,6 +1,6 @@
 # Project No. 1: String Parser
 
-Problem 1. Implement a C++ program that has the following functions: 1. Reads in a paragraph of English text up to 100 words from the keyboard and stores this paragraph in a string object. Feel free to include this task in the main() function.
+Implement a C++ program that has the following functions: 1. Reads in a paragraph of English text up to 100 words from the keyboard and stores this paragraph in a string object. Feel free to include this task in the main() function.
 
   1.Identifies the least frequent letter (case insensitive) in the above paragraph. Implement a separate function getLeastFreqLetter() for this task. The main() function then calls this function to find out the least frequent letter and its frequency.
 
